@@ -1,4 +1,14 @@
-### Hi there 👋
+<p align="center"> 
+Hi, my name is
+</p>
+
+<p align="center"> 
+  <img src="https://user-images.githubusercontent.com/96272858/158084355-ab4c082c-07b7-4efd-8fd1-564a27feaf5e.gif">
+</p>
+
+
+
+
 
 <!--
 **Code-With-Kev/Code-With-Kev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
