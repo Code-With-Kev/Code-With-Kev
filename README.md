@@ -1,12 +1,13 @@
-<p align="center"> 
-Hi, my name is
-</p>
+ # Hi, my name is
+
 
 <p align="center"> 
   <img src="https://user-images.githubusercontent.com/96272858/158084355-ab4c082c-07b7-4efd-8fd1-564a27feaf5e.gif">
 </p>
 
 
+<img align="left" height="250rem" src="https://user-images.githubusercontent.com/96272858/158077174-eafbac94-5177-4082-8c07-ab5348171a8f.gif">
+And this is my flying rubber duck, Oogie. We've been traveling together ever since I started this crazy journey into the world of
 
 
 
