@@ -26,8 +26,10 @@ we started this crazy journey into the world of:
  
  <div align="center"> 
   
-  **I'm a video editor with over ten years of experience whose worked with some of the biggest brands out there**
-
+  **I'm a full stack developer with over ten years of editing/photography experience whose worked with some of the biggest brands out there**
+  
+  <div align="center">
+  
 </details>
 
 
