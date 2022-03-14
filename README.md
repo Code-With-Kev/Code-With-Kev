@@ -20,16 +20,20 @@
 
 <p align="center">
 We've been traveling together ever since <br>
-we started this crazy journey into the world of:
+I started this crazy journey to become:
 </p>
 
-<div align="center">
+<p align="center"> 
  
-<img height="125rem" src="https://user-images.githubusercontent.com/96272858/158085536-2d5a082f-f554-4657-9710-52f56b8fe8a3.gif">
+<img src="https://user-images.githubusercontent.com/96272858/158096144-f52c8ff5-38db-4f07-bf26-842ab4ec29fc.gif#gh-light-mode-only">
  
-</div>
+<img src="https://user-images.githubusercontent.com/96272858/158096174-1138cba3-eb6d-48b3-ae44-fcdf7d2db826.gif#gh-dark-mode-only">
 
----
+</p>
+
+
+
+
 
 ## Experience
 
