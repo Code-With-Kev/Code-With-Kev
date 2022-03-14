@@ -1,6 +1,6 @@
  # Hi, my name is...
 <p align="center"> 
-<img height="300rem" src="https://user-images.githubusercontent.com/96272858/158084355-ab4c082c-07b7-4efd-8fd1-564a27feaf5e.gif#gh-light-mode-only">
+<img height="300rem" width="350rem" src="https://user-images.githubusercontent.com/96272858/158084355-ab4c082c-07b7-4efd-8fd1-564a27feaf5e.gif#gh-light-mode-only">
 </p>
 
 <p align="center"> 
