@@ -24,7 +24,6 @@ we started this crazy journey into the world of:
 <img height="125rem" src="https://user-images.githubusercontent.com/96272858/158085536-2d5a082f-f554-4657-9710-52f56b8fe8a3.gif">
  
 </div>
-<br><br><br><br><br><br><br><br><br>
 
 ---
 
