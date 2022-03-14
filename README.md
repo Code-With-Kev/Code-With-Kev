@@ -47,8 +47,12 @@ I started this crazy journey to become a...
   
   **I'm a full stack developer with over ten years of editing/photography experience whose worked with some of the biggest brands out there**
   
-  <div align="center">
+  <img src="https://user-images.githubusercontent.com/96272858/158221346-87236928-f184-4c8c-aefd-8d4a7bc3808d.gif#gh-light-mode-only">
+ 
+  <img src="https://user-images.githubusercontent.com/96272858/158221258-a255336c-eded-4eee-a53d-a1e7d5622bf2.gif#gh-dark-mode-only">
   
+  <div align="center">
+
 </details>
 
 
