@@ -9,9 +9,6 @@
 
 </p>
 
-
-
-<img align="left" height="250rem" src="https://user-images.githubusercontent.com/96272858/158077174-eafbac94-5177-4082-8c07-ab5348171a8f.gif">
 <p align="center">
 And this is my flying rubber ducky, Oogie. <br>
 We've been traveling together ever since <br>
