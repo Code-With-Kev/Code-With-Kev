@@ -6,7 +6,7 @@
 <p align="center"> 
   And this is my flying rubber ducky, Oogie. <br>
  
-  <img height="300rem" width="350rem" src="https://user-images.githubusercontent.com/96272858/158090308-406b0009-d2f0-4458-a7d0-d6b303b71bac.gif#gh-light-mode-only">
+  <img height="300rem" src="https://user-images.githubusercontent.com/96272858/158090308-406b0009-d2f0-4458-a7d0-d6b303b71bac.gif#gh-light-mode-only">
  
   <img height="300rem" src="https://user-images.githubusercontent.com/96272858/158090843-ea7b9dd4-919a-4907-9b67-44b44913e74f.gif#gh-dark-mode-only">
 
