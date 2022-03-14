@@ -51,9 +51,24 @@ I started this crazy journey to become a...
  
   <img src="https://user-images.githubusercontent.com/96272858/158221258-a255336c-eded-4eee-a53d-a1e7d5622bf2.gif#gh-dark-mode-only">
   
+  <br><br>
+
+  I believe it was Bruno Mars who said, <br>
+  
+  **"Don't believe me, just watch... my editing reel below!"**
+  <br><br><br><br>
+  
+  <a href="https://youtu.be/X8-dTGKKctE" target="_blank">
+   
+   <img src="https://user-images.githubusercontent.com/96272858/158224198-4e1350dd-2b5b-4db6-a425-a1d6af82f4c3.gif#gh-light-mode-only" alt="Reel" />
+     
+  </a>
+
   <div align="center">
+   
 
 </details>
+
 
 
 
