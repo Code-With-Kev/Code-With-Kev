@@ -21,12 +21,14 @@ we started this crazy journey into the world of:
 ## Experience
 
 <details>
+ <br>
 <summary>Click to see my experience!</summary>
+<br>
 <br>
  
  <div align="center"> 
   
-  **I'm a full stack developer with over ten years of editing/photography experience whose worked with some of the biggest brands out there**
+  **I'm a full stack developer with over ten years of editing/photography experience <br> whose worked with some of the biggest brands out there**
   
   <div align="center">
   
