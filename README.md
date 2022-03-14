@@ -3,7 +3,7 @@
  
 <img src="https://user-images.githubusercontent.com/96272858/158092528-41c19c45-42c5-4583-86c2-a095b58832e1.gif#gh-light-mode-only">
  
-<img src="https://user-images.githubusercontent.com/96272858/158092524-702c68ac-8ab7-40e1-99fa-b0ce1c1d95f0.giff#gh-dark-mode-only">
+<img src="https://user-images.githubusercontent.com/96272858/158092524-702c68ac-8ab7-40e1-99fa-b0ce1c1d95f0.gif#gh-dark-mode-only">
 
 </p>
 
