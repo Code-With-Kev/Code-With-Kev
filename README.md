@@ -1,6 +1,10 @@
  # Hi, my name is...
 <p align="center"> 
-<img height="300rem" width="350rem" src="https://user-images.githubusercontent.com/96272858/158084355-ab4c082c-07b7-4efd-8fd1-564a27feaf5e.gif#gh-light-mode-only">
+ 
+<img src="https://user-images.githubusercontent.com/96272858/158092528-41c19c45-42c5-4583-86c2-a095b58832e1.gif#gh-light-mode-only">
+ 
+<img src="https://user-images.githubusercontent.com/96272858/158092524-702c68ac-8ab7-40e1-99fa-b0ce1c1d95f0.giff#gh-dark-mode-only">
+
 </p>
 
 <p align="center"> 
