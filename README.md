@@ -1,4 +1,4 @@
- # Hi, my name is
+ # Hi, my name is...
 
 
 <p align="center"> 
@@ -7,9 +7,13 @@
 
 
 <img align="left" height="250rem" src="https://user-images.githubusercontent.com/96272858/158077174-eafbac94-5177-4082-8c07-ab5348171a8f.gif">
-And this is my flying rubber ducky, Oogie. We've been traveling together ever since we started this crazy journey into the world of:
+<p align="center">
+And this is my flying rubber ducky, Oogie. <br>
+We've been traveling together ever since <br>
+we started this crazy journey into the world of:
+</p>
 
-<img align="center" height="100rem" src="https://user-images.githubusercontent.com/96272858/158085536-2d5a082f-f554-4657-9710-52f56b8fe8a3.gif">
+<img align="right" height="150rem" src="https://user-images.githubusercontent.com/96272858/158085536-2d5a082f-f554-4657-9710-52f56b8fe8a3.gif">
 
 
 
