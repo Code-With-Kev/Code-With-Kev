@@ -2,8 +2,13 @@
 
 
 <p align="center"> 
-  <img height="300rem" src="https://user-images.githubusercontent.com/96272858/158084355-ab4c082c-07b7-4efd-8fd1-564a27feaf5e.gif">
+ 
+  <img height="300rem" src="https://user-images.githubusercontent.com/96272858/158084355-ab4c082c-07b7-4efd-8fd1-564a27feaf5e.gif#gh-light-mode-only">
+ 
+  <img height="300rem" src="https://user-images.githubusercontent.com/96272858/158088840-5ac606c5-7d6b-4f74-82b3-9fb41b1f9a50.gif#gh-dark-mode-only">
+ 
 </p>
+
 
 
 <img align="left" height="250rem" src="https://user-images.githubusercontent.com/96272858/158077174-eafbac94-5177-4082-8c07-ab5348171a8f.gif">
