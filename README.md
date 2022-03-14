@@ -15,7 +15,7 @@ We've been traveling together ever since <br>
 we started this crazy journey into the world of:
 </p>
 
-<img align="right" height="125rem" src="https://user-images.githubusercontent.com/96272858/158085536-2d5a082f-f554-4657-9710-52f56b8fe8a3.gif">
+<img align="center" height="125rem" src="https://user-images.githubusercontent.com/96272858/158085536-2d5a082f-f554-4657-9710-52f56b8fe8a3.gif">
 <br><br><br><br><br><br><br><br><br>
 
 ---
