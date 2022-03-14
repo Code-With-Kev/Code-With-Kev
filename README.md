@@ -1,21 +1,29 @@
  # Hi, my name is...
-
+<p align="center"> 
+<img height="300rem" src="https://user-images.githubusercontent.com/96272858/158084355-ab4c082c-07b7-4efd-8fd1-564a27feaf5e.gif#gh-light-mode-only">
+</p>
 
 <p align="center"> 
+  And this is my flying rubber ducky, Oogie. <br>
  
-  <img height="300rem" src="https://user-images.githubusercontent.com/96272858/158084355-ab4c082c-07b7-4efd-8fd1-564a27feaf5e.gif#gh-light-mode-only">
+  <img height="300rem" src="https://user-images.githubusercontent.com/96272858/158090308-406b0009-d2f0-4458-a7d0-d6b303b71bac.gif#gh-light-mode-only">
  
   <img height="300rem" src="https://user-images.githubusercontent.com/96272858/158088840-5ac606c5-7d6b-4f74-82b3-9fb41b1f9a50.gif#gh-dark-mode-only">
 
 </p>
 
+
+
 <p align="center">
-And this is my flying rubber ducky, Oogie. <br>
 We've been traveling together ever since <br>
 we started this crazy journey into the world of:
 </p>
 
-<img align="center" height="125rem" src="https://user-images.githubusercontent.com/96272858/158085536-2d5a082f-f554-4657-9710-52f56b8fe8a3.gif">
+<div align="center">
+ 
+<img height="125rem" src="https://user-images.githubusercontent.com/96272858/158085536-2d5a082f-f554-4657-9710-52f56b8fe8a3.gif">
+ 
+</div>
 <br><br><br><br><br><br><br><br><br>
 
 ---
