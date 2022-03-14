@@ -20,7 +20,7 @@
 
 <p align="center">
 We've been traveling together ever since <br>
-I started this crazy journey to become:
+I started this crazy journey to become a...
 </p>
 
 <p align="center"> 
