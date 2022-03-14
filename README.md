@@ -20,6 +20,15 @@ we started this crazy journey into the world of:
 
 ## Experience
 
+<details>
+<summary>Click to see my experience!</summary>
+<br>
+ 
+ <div align="center"> 
+  
+  **I'm a video editor with over ten years of experience whose worked with some of the biggest brands out there**
+
+</details>
 
 
 
