@@ -79,9 +79,15 @@ I started this crazy journey to become a...
  <div align="center"> 
   
 Right now I'm working as the lead full stack developer of a socially conscious, beauty/e-commerce site called "Strand". Products are meant to keep your strands beautiful and connected to those out there feeling stranded due to lack of support. Products are natural and proceeds go to help the underprivileged and overlooked. <br><br>
-This will be built using a MongoDB, Express, Node.js, SASS, React, and Stripe API as of right now.
+This will be built using a MongoDB, Express, Node.js, SASS, React, and Stripe API as of right now. Check out the home page:
   
 <img width="1907" alt="Strand_Preview" src="https://user-images.githubusercontent.com/96272858/159206793-c5eca833-8385-479e-b59a-890a04c1870f.PNG">
+  
+ <img width="1910" alt="Strand_ProductsAndCategoris" src="https://user-images.githubusercontent.com/96272858/160035422-6cc22f18-f404-4c61-8361-9a857a97d751.PNG">
+
+  https://user-images.githubusercontent.com/96272858/160068544-81505654-6df4-47e6-8b2c-209191843083.mp4
+
+  
  </div>
    
 </details>
